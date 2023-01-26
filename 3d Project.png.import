@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/3d Project.png-31277be84c6f9ded99f3175414c0d58b.stex"
+path="res://.import/3d Project.png-39f45f41b6d9cba5b94fca92e91c3399.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://export/3d Project.png"
-dest_files=[ "res://.import/3d Project.png-31277be84c6f9ded99f3175414c0d58b.stex" ]
+source_file="res://Export/Web/3d Project.png"
+dest_files=[ "res://.import/3d Project.png-39f45f41b6d9cba5b94fca92e91c3399.stex" ]
 
 [params]
 
